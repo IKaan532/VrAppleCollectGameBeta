@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1025958997560",
+    "firebase_url": "https://rehabcenter-913e6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rehabcenter-913e6",
+    "storage_bucket": "rehabcenter-913e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025958997560:android:62c1589f6adba1618c00cd",
+        "android_client_info": {
+          "package_name": "com.rehab.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfZzLEYDaZTwfDDTrWFqgBEHPaXA2dFCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
